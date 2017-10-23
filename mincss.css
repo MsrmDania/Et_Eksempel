@@ -15,4 +15,10 @@ h1 {
     font-family: monospace;
     color: blanchedalmond;
     font-size: 5em;
+    align-self: center;
+}
+.p1 {
+    font-family:serif;
+    color:blanchedalmond;
+    font-size: 2em;
 }
