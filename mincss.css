@@ -9,13 +9,14 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 Body {
     background-color: dimgrey;
     font-family:sans-serif;
-    margin: 1em;
+    margin: 5em;
+    padding: 5em;
 }
 h1 {
     font-family: monospace;
     color: blanchedalmond;
     font-size: 5em;
-    align-self: center;
+    text-align: center;
 }
 .p1 {
     font-family:serif;
